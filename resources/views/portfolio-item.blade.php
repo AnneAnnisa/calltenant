@@ -53,7 +53,7 @@
             <div class="col-md-6">
                 <div class="col-md-12 col-xs-12">
                     <div class="col-md-4 col-xs-12" style="padding:0">
-                        <h4><span class="glyphicon glyphicon-user"></span> Penyelenggara</h4>
+                        <h4><span class="glyphicon glyphicon-user"></span> EO</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
                         <h4>: 25 September 2016 - 26 Desember 2017</h4>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12">
                     <div class="col-md-4 col-xs-12" style="padding:0">
-                        <h4><span class="glyphicon glyphicon-calendar"></span> Calender</h4>
+                        <h4><span class="glyphicon glyphicon-calendar"></span> Tanggal</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
                         <h4>: 25 September 2016 - 26 Desember 2017</h4>
