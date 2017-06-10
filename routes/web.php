@@ -25,10 +25,12 @@ Route::get('portfolio-1-col', function () {return view('portfolio-1-col');});
 Route::get('portfolio-2-col', function () {return view('portfolio-2-col');});
 Route::get('portfolio-3-col', function () {return view('portfolio-3-col');});
 Route::get('portfolio-4-col', function () {return view('portfolio-4-col');});
-Route::get('portfolio-item', function () {return view('portfolio-item');});
 Route::get('pricing', function () {return view('pricing');});
 Route::get('services', function () {return view('services');});
 Route::get('sidebar', function () {return view('sidebar');});
 
 
+Route::get('portfolio-item', function () {return view('portfolio-item');});
 Route::get('addevent', function () {return view('master/addevent');});
+Route::get('EO', function () {return view('master/EO');});
+
