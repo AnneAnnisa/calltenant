@@ -9,7 +9,7 @@
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="index">Home</a></li>
-                    <li class="active">Nama EO</li>
+                    <li><a href="{{url('EO')}}">Nama EO</a></li>
                     <li class="active">Nama Event</li>
                 </ol>
             </div>
@@ -30,13 +30,13 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                            <img class="img-responsive" src="{{('event/p1.jpg')}}" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                            <img class="img-responsive" src="{{('event/p2.jpg')}}" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                            <img class="img-responsive" src="{{('event/p3.jpg')}}" alt="">
                         </div>
                     </div>
 
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12">
                     <div class="col-md-4 col-xs-12" style="padding:0">
-                        <h4><span class="glyphicon glyphicon-user"></span> Emvrio</h4>
+                        <h4><span class="glyphicon glyphicon-user"></span> Event Organizer</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
                         <h4>: 25 September 2016 - 26 Desember 2017</h4>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12">
                     <div class="col-md-4 col-xs-12" style="padding:0">
-                        <h4><span class="glyphicon glyphicon-calendar"></span> Calender</h4>
+                        <h4><span class="glyphicon glyphicon-calendar"></span> Tanggal</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
                         <h4>: 25 September 2016 - 26 Desember 2017</h4>
@@ -105,13 +105,13 @@
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#">
-                    <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
+                    <img class="img-responsive img-hover img-related" src="{{('event/p1.jpg')}}" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#">
-                    <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
+                    <img class="img-responsive img-hover img-related" src="{{('event/1.jpg')}}" alt="">
                 </a>
             </div>
 
