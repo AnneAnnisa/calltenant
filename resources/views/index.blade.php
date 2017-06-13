@@ -12,7 +12,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('image/1.jpg')"></div>
+                <div class="fill" style="background-image:url('http://placehold.it/1900x1080)"></div>
                 <div class="carousel-caption">
                     <h2>Caption 1</h2>
                 </div>
@@ -56,7 +56,16 @@
 
         <!-- Projects Row -->
         <div class="row">
-            @for($i=1 ; $i<7 ; $i++)
+            <div class="col-md-4 img-portfolio">
+                <a href="portfolio-item">
+                    <img class="img-responsive img-hover" src="http://placehold.it/700x400" alt="http://placehold.it/700x400" height="400px" width="700px">
+                </a>
+                <h3>
+                    <a href="portfolio-item">Resize Photo</a>
+                </h3>
+                <p>Setiap kali orang upload, langsung resize ke ukuran 400x700</p>
+            </div>
+            @for($i=1 ; $i<6 ; $i++)
             <div class="col-md-4 img-portfolio">
                 <a href="portfolio-item">
                     <img class="img-responsive img-hover" src="event/{{$i}}.jpg" alt="http://placehold.it/700x400" height="400px" width="700px">

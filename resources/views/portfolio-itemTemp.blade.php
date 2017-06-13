@@ -24,20 +24,20 @@
                     <ol class="carousel-indicators">
                         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                        <!-- <li data-target="#carousel-example-generic" data-slide-to="2"></li> -->
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                     </ol>
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img class="img-responsive" src="{{('event/p1.jpg')}}" alt="">
+                            <img class="img-responsive" src="http://placehold.it/750x500" alt="">
                         </div>
                         <div class="item">
                             <img class="img-responsive" src="{{('event/p2.jpg')}}" alt="">
                         </div>
-<!--                         <div class="item">
+                        <div class="item">
                             <img class="img-responsive" src="{{('event/p3.jpg')}}" alt="">
-                        </div> -->
+                        </div>
                     </div>
 
                     <!-- Controls -->
@@ -56,7 +56,7 @@
                         <h4><span class="glyphicon glyphicon-user"></span> EO</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
-                        <h4>: <a href="{{url('EO')}}" style="color: red">Schematics</h4></a>
+                        <h4>: 25 September 2016 - 26 Desember 2017</h4>
                     </div>
                 </div>
                 <div class="col-md-12 col-xs-12">
@@ -64,8 +64,7 @@
                         <h4><span class="glyphicon glyphicon-map-marker"></span> Lokasi</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
-                        <h4>: Pusat Gegung Robotika Campus ITS 60111, Jalan ITS Raya, Sukolilo, Keputih, Surabaya, Kota SBY, Jawa Timur 60117, Indonesia</h4>
-                        <h5><a href="https://www.google.com/maps/place/Sea+World+Dr,+San+Diego,+CA/@32.7611147,-117.2221996,17z/data=!3m1!4b1!4m5!3m4!1s0x80deaa8ac7f3075b:0x619d2266fca2db1b!8m2!3d32.7611102!4d-117.2200109" target="_blank"><span class="glyphicon glyphicon-globe"></span> Lihat Peta!</a></h5>
+                        <h4>: 25 September 2016 - 26 Desember 2017</h4>
                     </div>
                 </div>
                 <div class="col-md-12 col-xs-12">
@@ -78,10 +77,10 @@
                 </div>
                 <div class="col-md-12 col-xs-12">
                     <div class="col-md-4 col-xs-12" style="padding:0">
-                        <h4><span class="glyphicon glyphicon-phone-alt"></span> Contact Person</h4>
+                        <h4><span class="glyphicon glyphicon-telephone"></span> Contact Person</h4>
                     </div>
                     <div class="col-md-8 col-xs-12" style="padding:0">
-                        <h4>: 2543903849</h4>
+                        <h4>: 25 September 2016 - 26 Desember 2017</h4>
                     </div>
                 </div>
 <!--                 <div class="col-md-12">
